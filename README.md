@@ -1,10 +1,10 @@
-# Hello world! 😊
+# Hello world! 🌍
 
 [![achacon-'s 42 stats](https://badge.mediaplus.ma/colorfulwaves/achacon-?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-## Welcome to my Github!
+## Welcome to my Github! 😊
 
-You can call me Noa, nice to meet you!
+You can call me Noa, nice to meet you! 💛
 
 Currently I am living in Málaga and I am studying at the [42 Málaga Campus](https://www.42malaga.com/)
 
