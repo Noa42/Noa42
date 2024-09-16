@@ -8,6 +8,8 @@ You can call me Noa, nice to meet you! 💛
 
 Currently I am living in Málaga and I am studying at the [42 Málaga Campus](https://www.42malaga.com/)
 
+**You can also find me in [LinkedIn](www.linkedin.com/in/alejandro-chacón-de-castro-070a13234)!**
+
  ## My education 🎓
 
 📗  42 Málaga Cursus (Fundación Telefónica)  
